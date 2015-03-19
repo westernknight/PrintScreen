@@ -1,0 +1,8 @@
+D:\zhangjiajun\studio\PrintScreen\trunk\PrintScreen\bin\Debug\PrintScreen.exe
+D:\zhangjiajun\studio\PrintScreen\trunk\PrintScreen\bin\Debug\PrintScreen.pdb
+D:\zhangjiajun\studio\PrintScreen\trunk\PrintScreen\obj\x86\Debug\PrintScreen.csprojResolveAssemblyReference.cache
+D:\zhangjiajun\studio\PrintScreen\trunk\PrintScreen\obj\x86\Debug\PrintScreen.exe
+D:\zhangjiajun\studio\PrintScreen\trunk\PrintScreen\obj\x86\Debug\PrintScreen.pdb
+D:\zhangjiajun\studio\PrintScreen\trunk\PrintScreen\bin\Debug\AForge.Video.dll
+D:\zhangjiajun\studio\PrintScreen\trunk\PrintScreen\bin\Debug\AForge.Video.FFMPEG.dll
+D:\zhangjiajun\studio\PrintScreen\trunk\PrintScreen\bin\Debug\PrintScreen.exe.config
